@@ -5,6 +5,7 @@ Dieses Repository enthält Musterlösungen etc. zu den diversen Übungsaufgaben 
 
 * [Foliensatz 2: Collections-Framework](Übungsaufgaben/Foliensatz2.md)
 * [Foliensatz 3: Sortier-Algorithmen](Übungsaufgaben/Foliensatz3.md)
+* [Foliensatz 4: Sortier-Algorithmen (Teil 2)](Übungsaufgaben/Foliensatz4.md)
 
 ## Aufgabenblätter
 
