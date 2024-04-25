@@ -1,4 +1,4 @@
-# Foliensatz 3: Sortier-Algorithmen (Teil 2)
+# Foliensatz 4: Sortier-Algorithmen (Teil 2)
 
 ## Übung 2: IComparable
 
