@@ -7,6 +7,7 @@ Dieses Repository enthält Musterlösungen etc. zu den diversen Übungsaufgaben 
 * [Foliensatz 3: Sortier-Algorithmen](Übungsaufgaben/Foliensatz3.md)
 * [Foliensatz 4: Sortier-Algorithmen (Teil 2)](Übungsaufgaben/Foliensatz4.md)
 * [Foliensatz 5: Clean Code](Übungsaufgaben/Foliensatz5.md)
+* [Foliensatz 6: Bäume](Übungsaufgaben/Foliensatz6.md)
 
 ## Aufgabenblätter
 
