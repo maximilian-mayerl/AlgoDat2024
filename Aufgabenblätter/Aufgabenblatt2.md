@@ -1,4 +1,4 @@
-# Aufgabenblatt 1
+# Aufgabenblatt 2
 
 ## Aufgabe 2: Merge Sort
 

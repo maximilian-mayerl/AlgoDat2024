@@ -13,3 +13,4 @@ Dieses Repository enthält Musterlösungen etc. zu den diversen Übungsaufgaben 
 
 * [Aufgabenblatt 1](Aufgabenblätter/Aufgabenblatt1.md)
 * [Aufgabenblatt 2](Aufgabenblätter/Aufgabenblatt2.md)
+* [Aufgabenblatt 3](Aufgabenblätter/Aufgabenblatt3.md)
