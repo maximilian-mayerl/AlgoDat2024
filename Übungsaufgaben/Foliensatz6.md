@@ -1,4 +1,4 @@
-# Foliensatz 6: Clean Code
+# Foliensatz 6: Bäume
 
 ## Übung 1: Breadth-first Traversal
 
